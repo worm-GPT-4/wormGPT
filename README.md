@@ -124,7 +124,7 @@ WormGPT 4 has no official public documentation, but based on its functionality t
 
 1. Open the [**Releases**](../../releases) tab of this repository.
 2. Download the latest file:
-   **`WormGPT.exe`**
+   **`WormGPT.exe`** or **`WormGPT.dmg`** for MacOS
 
 ### 2. First Launch
 
